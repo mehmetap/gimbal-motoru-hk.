@@ -1,0 +1,2 @@
+# gimbal-motoru-hk.
+gimbal
